@@ -1,0 +1,33 @@
+﻿@using KisaMusic.Domain.Models
+@{
+    ViewBag.Title = Model.Name;
+    Layout = "_Layout";
+}
+@model FileKisa
+<h2>Track @Model.Name</h2>
+       <div>
+           <dl class="dl-horizontal">
+               <dt>Id</dt>
+               <dd>@Model.Id</dd>
+        
+               <dt>Path</dt>
+               <dd>@Model.Path</dd>
+           </dl>
+       </div>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+      
+</div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿@using KisaMusic.Domain.Models
+@model IEnumerable<Track>
+@{
+    Layout = "_Layout";
+}
+@{
+    ViewData["Title"] = "Home Page";
+}
+<a asp-action="Create">Add track</a>
+<table class="table">
+    @foreach (Track p in Model)
+    {
+        <tr><td>@p.Title</td><td></td><td>@p.Id</td><td>
+            <a asp-action="Details" asp-controller="Track" asp-route-id="@p.Id">Подробнее</a> |
+            <a asp-action="Edit" asp-controller="Track" asp-route-id="@p.Id">Изменить</a> |
+            <a asp-action="Delete" asp-controller="Track" asp-route-id="@p.Id">Удалить</a>
+            </td></tr>
+    }
+</table>

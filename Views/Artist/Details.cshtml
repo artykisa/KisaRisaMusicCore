@@ -1,0 +1,29 @@
+﻿@using KisaMusic.Domain.Models
+@{
+    Layout = "_Layout";
+}
+@model Artist
+       @{
+           ViewBag.Title = "Artist";
+       }
+       <h2>Artist @Model.Nickname</h2>
+       <div>
+           <dl class="dl-horizontal">
+               <dt>Id</dt>
+               <dd>@Model.Id</dd>
+        
+               <dt>Title</dt>
+               <dd>@Model.Nickname</dd>
+               
+               <dt>Albums:</dt>
+               
+              <table class="table">
+                  @foreach (Album p in Model.Albums)
+                  {
+                      <a class="nav-link text-dark" asp-area="" asp-controller="Album" asp-action="Details" asp-route-id="@p.Id">@p?.Title</a>
+                                      
+                  }
+              </table>
+           </dl>
+       </div>
+

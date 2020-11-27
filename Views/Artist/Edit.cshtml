@@ -1,0 +1,39 @@
+﻿@using KisaMusic.Domain.Models
+@{
+    Layout = "_Layout";
+}
+@model Artist
+       @{
+           ViewBag.Title = "Edit file";
+       }
+       <form asp-action="edit" asp-controller="Artist" asp-route-id="@Model.Id">
+           <div class="form-group">
+               <label asp-for="Nickname" class="control-label">Title</label>
+               <input type="text" asp-for="Nickname" class="form-control" />
+           </div>
+           @*<div class="form-group">
+                   <label asp-for="FileKisaId" class="control-label"></label>
+                       <select asp-for="FileKisaId" class="form-control" asp-items="ViewBag.FileKisa">
+                           <option value="">-- Select file --</option>
+                       </select>
+                       <span asp-validation-for="FileKisaId" class="text-danger" />
+               </div>
+               <div class="form-group">
+                       <label asp-for="ArtistId" class="control-label"></label>
+                           <select asp-for="ArtistId" class="form-control" asp-items="ViewBag.Artist">
+                               <option value="">-- Select file --</option>
+                           </select>
+                           <span asp-validation-for="ArtistId" class="text-danger" />
+                   </div>
+                   <div class="form-group">
+                           <label asp-for="AlbumId" class="control-label"></label>
+                               <select asp-for="AlbumId" class="form-control" asp-items="ViewBag.Album">
+                                   <option value="">-- Select file --</option>
+                               </select>
+                               <span asp-validation-for="AlbumId" class="text-danger" />
+                       </div>*@
+           <div class="form-group">
+               <input type="submit" value="Save" class="btn btn-default" />
+           </div>
+       </form>
+

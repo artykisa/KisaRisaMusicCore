@@ -1,0 +1,3942 @@
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Error 404
+Error 404
+Error 404
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+User 1886f832-ea3e-4249-86ad-09a686e86354 cannot sign in without a confirmed account.
+User 1886f832-ea3e-4249-86ad-09a686e86354 cannot sign in without a confirmed account.
+User 1886f832-ea3e-4249-86ad-09a686e86354 cannot sign in without a confirmed account.
+User 1886f832-ea3e-4249-86ad-09a686e86354 cannot sign in without a confirmed account.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+User 3e37bc6e-6572-4dad-ab5b-a504be4c7bf9 validation failed: DuplicateUserName.
+User 3e37bc6e-6572-4dad-ab5b-a504be4c7bf9 validation failed: DuplicateUserName.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+User 836c7d33-c7a5-4892-973c-9ef993850a01 validation failed: DuplicateUserName.
+User 836c7d33-c7a5-4892-973c-9ef993850a01 validation failed: DuplicateUserName.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+Invalid password for user 05408eb0-e21d-4d8f-84a1-708183d9029e.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+User 05408eb0-e21d-4d8f-84a1-708183d9029e failed to provide the correct password.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+User 6c16d102-612e-4b4d-ac09-c9cde0225c93 password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+User 6c16d102-612e-4b4d-ac09-c9cde0225c93 password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+User 6c16d102-612e-4b4d-ac09-c9cde0225c93 password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+Invalid password for user 66df70ec-0ca4-4506-ac8f-9e38ca4b6640.
+Invalid password for user 66df70ec-0ca4-4506-ac8f-9e38ca4b6640.
+Invalid password for user 66df70ec-0ca4-4506-ac8f-9e38ca4b6640.
+User 66df70ec-0ca4-4506-ac8f-9e38ca4b6640 failed to provide the correct password.
+User 66df70ec-0ca4-4506-ac8f-9e38ca4b6640 failed to provide the correct password.
+User 66df70ec-0ca4-4506-ac8f-9e38ca4b6640 failed to provide the correct password.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Invalid password for user 0d12f5ab-68ac-469f-9b46-c3694eef6540.
+Invalid password for user 0d12f5ab-68ac-469f-9b46-c3694eef6540.
+Invalid password for user 0d12f5ab-68ac-469f-9b46-c3694eef6540.
+Invalid password for user 0d12f5ab-68ac-469f-9b46-c3694eef6540.
+User 0d12f5ab-68ac-469f-9b46-c3694eef6540 failed to provide the correct password.
+User 0d12f5ab-68ac-469f-9b46-c3694eef6540 failed to provide the correct password.
+User 0d12f5ab-68ac-469f-9b46-c3694eef6540 failed to provide the correct password.
+User 0d12f5ab-68ac-469f-9b46-c3694eef6540 failed to provide the correct password.
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Failed executing DbCommand (4ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (4ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (4ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (4ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (4ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (2ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Failed executing DbCommand (8ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (8ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (8ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (8ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (8ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Failed executing DbCommand (26ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (26ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (26ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (26ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+Failed executing DbCommand (26ms) [Parameters=[@p0='?', @p1='?', @p2='?', @p3='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO "Tracks" ("AlbumId", "ArtistId", "FileKisaId", "Title")
+VALUES (@p0, @p1, @p2, @p3);
+SELECT "Id"
+FROM "Tracks"
+WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An exception occurred in the database while saving changes for context type 'KisaRisaMusicCore.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Invalid password for user 49e9a729-82d5-4aaa-a2b0-9b364f9c3767.
+Invalid password for user 49e9a729-82d5-4aaa-a2b0-9b364f9c3767.
+User 49e9a729-82d5-4aaa-a2b0-9b364f9c3767 failed to provide the correct password.
+User 49e9a729-82d5-4aaa-a2b0-9b364f9c3767 failed to provide the correct password.
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album created
+Album created
+Album created
+Album created
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album page edit
+Album page edit
+Album page edit
+Album page edit
+Album updated
+Album updated
+Album updated
+Album updated
+Album updated
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album page edit
+Album page edit
+Album page edit
+Album page edit
+Album page edit
+Album page edit
+Album page edit
+Album updated
+Album updated
+Album updated
+Album updated
+Album updated
+Album updated
+Album updated
+Album updated
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album confirm deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Album deleted
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Cant load track to database: Id: 0, Title: Iron
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album delails
+Album delails
+Album delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album delails
+Album delails
+Album delails
+Track delails
+Track delails
+Track delails
+Track delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track delails
+Track delails
+Track delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album delails
+Album delails
+Album delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist page edit
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist updated
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Artist delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Album delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Track updated
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Application startup exception
+Is it development? True
+Application startup exception
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Application startup exception
+Is it development? True
+Application startup exception
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Application startup exception
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Invalid password for user cf0c49db-0923-44e1-badb-2acabfa02b9f.
+Invalid password for user cf0c49db-0923-44e1-badb-2acabfa02b9f.
+User cf0c49db-0923-44e1-badb-2acabfa02b9f failed to provide the correct password.
+User cf0c49db-0923-44e1-badb-2acabfa02b9f failed to provide the correct password.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist creating page
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Artist created
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album creating page
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Album created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Add track to user
+Add track to user
+Add track to user
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Cant load track to database: Id: 0, Title: Gold
+Cant load track to database: Id: 0, Title: Gold
+Cant load track to database: Id: 0, Title: Gold
+Cant load track to database: Id: 0, Title: Gold
+Cant load track to database: Id: 0, Title: Gold
+Cant load track to database: Id: 0, Title: Gold
+Cant load track to database: Id: 0, Title: Gold
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Add track to user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Deleted track from user
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+Invalid password for user 5a0e8e56-f00f-47e3-ae8c-ef709f605cac.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac failed to provide the correct password.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.

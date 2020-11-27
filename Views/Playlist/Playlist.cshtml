@@ -1,0 +1,9 @@
+﻿@using KisaMusic.Domain.Models;
+@model IEnumerable<Track>
+@{
+    ViewData["Title"] = "Your playlist";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Here i will show u your playlist soon</p>
+@await Html.PartialAsync("_Partical_Music", Model)

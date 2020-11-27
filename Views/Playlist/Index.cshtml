@@ -1,0 +1,12 @@
+﻿@using KisaMusic.Domain.Models;
+@model IEnumerable<ApplicationUser>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+<table class="table">
+    @foreach (ApplicationUser p in Model)
+    {
+        <tr><td>@p.FirstName</td><td>@p.Email</td></tr>
+    }
+</table>

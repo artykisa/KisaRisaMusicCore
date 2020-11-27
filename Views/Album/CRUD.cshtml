@@ -1,0 +1,19 @@
+﻿@using KisaMusic.Domain.Models
+@model IEnumerable<Album>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<a asp-action="Create">Add album</a>
+<table class="table">
+    @foreach (Album p in Model)
+    {
+        <tr><td>@p.Title</td><td></td><td>@p.Id</td><td>
+            <a asp-action="Details" asp-controller="Album" asp-route-id="@p.Id">About</a> |
+            <a asp-action="Edit" asp-controller="Album" asp-route-id="@p.Id">Edit</a> |
+            <a asp-action="Delete" asp-controller="Album" asp-route-id="@p.Id">Delete</a>
+            </td></tr>
+    }
+</table>

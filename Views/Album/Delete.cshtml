@@ -1,0 +1,27 @@
+﻿@using KisaMusic.Domain.Models
+@{
+    Layout = "_Layout";
+}
+@model Album
+       @{
+           ViewBag.Title = "Album delete";
+       }
+        
+       <div>
+           <dl class="dl-horizontal">
+               <dt>Title</dt>
+               <dd>
+                   @Html.DisplayFor(model => model.Title)
+               </dd>
+               
+           </dl>
+        
+           <div>
+               <form asp-controller="Album" asp-action="Delete" method="post">
+                   <div class="form-group">
+                       <input type="submit" class="btn btn-default" value="Delete" />
+                   </div>
+               </form>
+           </div>
+       </div>
+

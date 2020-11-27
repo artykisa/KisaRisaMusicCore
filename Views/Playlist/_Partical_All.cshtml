@@ -1,0 +1,32 @@
+﻿@using KisaMusic.Domain.Models
+@using System.Globalization
+@using Microsoft.AspNet.Identity
+@using Microsoft.AspNet.Identity.EntityFramework
+@model IEnumerable<Track>
+
+@{
+    ViewData["Title"] = "Player";
+}
+<link rel="stylesheet" href="css/site.css" type="text/css"/>
+<p></p>
+<audio class="Player" controls id="music">
+    <source id="music_source" src="" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+<form method="post">
+
+    @foreach (Track track in Model)
+    {
+        <input type="button" onclick="updateSource('@String.Format("{0}", track?.FileKisa?.Path)')" name="button" class="button1" value="Play"/>
+            
+        <li >
+            <p><a class="nav-link text-dark" asp-area="" asp-controller="Track" asp-action="Details" asp-route-id="@track.Id">Track: @track?.Title</a>
+                <a class="nav-link text-dark" asp-area="" asp-controller="Artist" asp-action="Details" asp-route-id="@track.ArtistId">Artist: @track?.Artist.Nickname </a>
+                <a class="nav-link text-dark" asp-area="" asp-controller="Album" asp-action="Details" asp-route-id="@track.AlbumId">Album: @track?.Album.Title</a>
+                <a class="nav-link text-dark" asp-area="" asp-controller="TrackUser" asp-action="Add" asp-route-id_track="@track.Id">Add track</a>
+                </p> 
+        </li>
+
+    }
+    
+</form>
