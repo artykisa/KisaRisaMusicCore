@@ -3940,3 +3940,9 @@ User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRe
 User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
 User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
 User 5a0e8e56-f00f-47e3-ae8c-ef709f605cac password validation failed: PasswordRequiresLower;PasswordRequiresUpper.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
