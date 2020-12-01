@@ -121,7 +121,6 @@ C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Tr
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Track\Edit.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Update.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\bin\Debug\netcoreapp3.1\SendGrid.dll
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\KisaRisaMusicCore.csproj.CoreCompileInputs.cache
@@ -151,3 +150,5 @@ C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Ap
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Profile.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Register.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\WorkPanel.cshtml.g.cs
+C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Edit.cshtml.g.cs
+C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\UserList.cshtml.g.cs

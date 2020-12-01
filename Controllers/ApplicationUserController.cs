@@ -10,25 +10,37 @@ using KisaRisaMusicCore.Models;
 using KisaMusic.Domain.Models;
 using Microsoft.Extensions.Configuration;
 using System.Web;
+using KisaRisaMusicCore.Data;
+using KisaRisaMusicCore.Services;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 
 namespace KisaMusicCore.Controllers
 {
     public class ApplicationUserController : Controller
     {
         // GET
-        List<ApplicationUser> users = new List<ApplicationUser> 
+        private ApplicationDbContext db;
+        private ILogger _logger;
+        private UserManager<IdentityUser> _userManager;
+        public ApplicationUserController(ApplicationDbContext context,ILoggerFactory loggerFactory, UserManager<IdentityUser> userManager)
         {
-            new ApplicationUser { FirstName = "Artyom" },
-            new ApplicationUser { FirstName = "Evgeniy"}
-        };
+            db = context;
+            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
+            var logger = loggerFactory.CreateLogger("AlbumController");
+            _logger = logger;
+            _userManager = userManager;
+        }
+
         
         
         
         public IActionResult Index()
         {
-            return View(users);
+            return View();
         }
         
+        [Authorize(Roles="admin")]
         public IActionResult WorkPanel()
         {
             return View();
@@ -54,6 +66,9 @@ namespace KisaMusicCore.Controllers
         {
             return View();
         }
+        
+        
+        
         
         public IActionResult ChatPage()
         {

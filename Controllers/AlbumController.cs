@@ -1,13 +1,17 @@
 ﻿using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using KisaMusic.Domain.Models;
+using KisaRisaMusicCore.Models;
 using KisaRisaMusicCore.Data;
 using KisaRisaMusicCore.Services;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.Identity;
+using IdentityUser = Microsoft.AspNetCore.Identity.IdentityUser;
 
 namespace KisaRisaMusicCore.Controllers
 {
@@ -16,8 +20,7 @@ namespace KisaRisaMusicCore.Controllers
         // GET
         private ApplicationDbContext db;
         private ILogger _logger;
-
-        public AlbumController(ApplicationDbContext db, ILoggerFactory loggerFactory)
+        public AlbumController(ApplicationDbContext db, ILoggerFactory loggerFactory, Microsoft.AspNetCore.Identity.UserManager<IdentityUser> userManager)
         {
             loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
             var logger = loggerFactory.CreateLogger("AlbumController");

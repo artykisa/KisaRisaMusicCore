@@ -1,8 +1,10 @@
-﻿@using KisaMusic.Domain.Models
+﻿@using KisaRisaMusicCore.Models
 @using System.Globalization
 @using Microsoft.AspNet.Identity
-@using Microsoft.AspNet.Identity.EntityFramework
+@using Microsoft.AspNetCore.Identity
+@using IdentityUser = Microsoft.AspNetCore.Identity.IdentityUser
 @model IEnumerable<Track>
+@inject SignInManager<IdentityUser> SignInManager
 
 @{
     ViewData["Title"] = "Player";
@@ -23,8 +25,11 @@
             <p><a class="nav-link text-dark" asp-area="" asp-controller="Track" asp-action="Details" asp-route-id="@track.Id">Track: @track?.Title</a>
                 <a class="nav-link text-dark" asp-area="" asp-controller="Artist" asp-action="Details" asp-route-id="@track.ArtistId">Artist: @track?.Artist.Nickname </a>
                 <a class="nav-link text-dark" asp-area="" asp-controller="Album" asp-action="Details" asp-route-id="@track.AlbumId">Album: @track?.Album.Title</a>
-                <a class="nav-link text-dark" asp-area="" asp-controller="TrackUser" asp-action="Add" asp-route-id_track="@track.Id">Add track</a>
-                </p> 
+               @if (SignInManager.IsSignedIn(User))
+               {
+                   <a class="nav-link text-dark" asp-area="" asp-controller="TrackUser" asp-action="Add" asp-route-id_track="@track.Id">Add track</a>
+               }
+               </p> 
         </li>
 
     }

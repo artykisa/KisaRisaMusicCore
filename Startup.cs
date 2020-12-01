@@ -42,10 +42,6 @@ namespace KisaRisaMusicCore
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
-
-                
-            services.AddTransient<IEmailSender, EmailSender>();
-            services.Configure<AuthMessageSenderOptions>(Configuration);
             services.AddSignalR();
             services.AddTransient<IEmailSender, MailKitEmailSender>();
             

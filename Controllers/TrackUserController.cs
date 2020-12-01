@@ -1,11 +1,12 @@
 ﻿using System.IO;
 using System.Linq;
 using System.Security.Claims;
-using KisaMusic.Domain.Models;
+using KisaRisaMusicCore.Models;
 using KisaRisaMusicCore.Data;
 using KisaRisaMusicCore.Services;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 

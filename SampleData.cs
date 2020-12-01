@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using KisaMusic.Domain.Models;
 using KisaRisaMusicCore.Data;
+using KisaRisaMusicCore.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.EntityFrameworkCore.Internal;
 
@@ -18,6 +18,12 @@ namespace KisaRisaMusicCore
                         Id = 1,
                         Name = "Apple",
                         Path = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+                    },
+                    new FileKisa()
+                    {
+                        Id = 2,
+                        Name = "Tomato",
+                        Path = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
                     }
                 );
                 context.SaveChanges();
@@ -29,38 +35,18 @@ namespace KisaRisaMusicCore
                     new Track()
                     {
                         Id = 1,
-                        Title = "Apple",
-                        FileKisa = context.FileKisas.Find(1),
+                        Title = "Iron",
+                        FileKisaId = 1,
                         AlbumId = 1,
                         ArtistId = 1
-                        
-                    }
-                );
-                context.SaveChanges();
-            }
-            if (!context.Playlists.Any())
-            {
-                List<Track> TrackList = new List<Track>();
-                TrackList.Add(context.Tracks.Find(1));
-                context.Playlists.AddRange(
-                    new Playlist()
+                    },
+                    new Track()
                     {
-                        Id = 1,
-                        Title = "Apple",
-                        //Tracks = TrackList
-                    }
-                );
-                context.SaveChanges();
-            }
-            if (!context.GlobalPlaylists.Any())
-            {
-                context.GlobalPlaylists.AddRange(
-                    
-                    new GlobalPlaylist()
-                    {
-                        Id = 1,
-                        Playlists = context.Playlists.Find(1)
-                        
+                        Id = 2,
+                        Title = "Gold",
+                        FileKisaId = 2,
+                        AlbumId = 2,
+                        ArtistId = 2
                     }
                 );
                 context.SaveChanges();
@@ -74,7 +60,11 @@ namespace KisaRisaMusicCore
                     {
                         Id = 1,
                         Nickname = "Kendrick Lamar"
-                        
+                    },
+                    new Artist()
+                    {
+                        Id = 2,
+                        Nickname = "A$AP Rocky"
                     }
                 );
                 context.SaveChanges();
@@ -89,11 +79,17 @@ namespace KisaRisaMusicCore
                         Id = 1,
                         Title = "Damn.",
                         ArtistId = 1
-                        
+                    },
+                    new Album()
+                    {
+                        Id = 2,
+                        Title = "Testing",
+                        ArtistId = 2
                     }
                 );
                 context.SaveChanges();
             }
+
         }
     }
 }

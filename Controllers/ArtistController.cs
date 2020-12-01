@@ -1,9 +1,10 @@
 ﻿using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using KisaMusic.Domain.Models;
+using KisaRisaMusicCore.Models;
 using KisaRisaMusicCore.Data;
 using KisaRisaMusicCore.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -28,12 +29,14 @@ namespace KisaRisaMusicCore.Controllers
             return View();
         }
         
+        [Authorize(Roles="admin")]
         public IActionResult CRUD()
         {
             var listAlbum = db.Albums.ToList();
             var listArtist = db.Artists.OrderBy(a => a.Id);
             return View(listArtist);
         }
+        [Authorize(Roles="admin")]
         public IActionResult Create() 
         {
             var listAlbum = db.Albums.ToList();
@@ -42,6 +45,7 @@ namespace KisaRisaMusicCore.Controllers
             return View();
         }
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Create([Bind("Id,Nickname,ArtistId")] Artist artist)
         {
             if (ModelState.IsValid)
@@ -79,6 +83,7 @@ namespace KisaRisaMusicCore.Controllers
             return NotFound();
         }
         
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             var listArtist = db.Artists.ToList();
@@ -98,6 +103,7 @@ namespace KisaRisaMusicCore.Controllers
         }
         
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(Artist artist)
         {
             db.Artists.Update(artist);
@@ -108,6 +114,7 @@ namespace KisaRisaMusicCore.Controllers
         
         [HttpGet]
         [ActionName("Delete")]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> ConfirmDelete(int? id)
         {
             if (id != null)
@@ -126,6 +133,7 @@ namespace KisaRisaMusicCore.Controllers
         }
  
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id != null)

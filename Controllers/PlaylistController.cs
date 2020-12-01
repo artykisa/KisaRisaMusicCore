@@ -9,12 +9,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using KisaRisaMusicCore.Models;
-using KisaMusic.Domain.Models;
 using Microsoft.Extensions.Configuration;
 using System.Web;
 using KisaRisaMusicCore.Data;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
 using SQLitePCL;
 
 namespace KisaMusicCore.Controllers
@@ -31,22 +28,7 @@ namespace KisaMusicCore.Controllers
         {
             return View();
         }
-        public ViewResult Playlist(Playlist playlist)
-        {
-            //return View(playlist.Tracks);
-            return View();
-        }
-        
-        public IActionResult CRUD()
-        {
-            return View();
-        }
-        
-        public ViewResult GlobalPlaylist()
-        {
-            return View(db.GlobalPlaylists.ToList());
-        }
-        
+
         public ViewResult Liked()
         { 
            // var list_tracks = db.Tracks.OrderBy(a => a.Id);
@@ -59,7 +41,7 @@ namespace KisaMusicCore.Controllers
            var listOfTrackUserId = db.TrackUsers.Where(p=>p.UserId==userId).ToList();
            
            var listOfTrackId = new List<int>();
-           for (int i = 0; i < listOfTrackUserId.Count; i++)
+           for(int i = 0; i < listOfTrackUserId.Count; i++)
            {
                listOfTrackId.Add(listOfTrackUserId[i].TrackId);
            }

@@ -4,9 +4,10 @@ using System.Data.Entity;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using KisaMusic.Domain.Models;
+using KisaRisaMusicCore.Models;
 using KisaRisaMusicCore.Data;
 using KisaRisaMusicCore.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -31,7 +32,7 @@ namespace KisaMusicCore.Controllers
         {
             return View();
         }
-        
+        [Authorize(Roles="admin")]
         public IActionResult CRUD()
         {
             var list_file = db.FileKisas.ToList();
@@ -40,6 +41,7 @@ namespace KisaMusicCore.Controllers
         }
         
         
+        [Authorize(Roles="admin")]
         public IActionResult Create() 
         {
             var list_files = db.FileKisas.ToList();
@@ -48,6 +50,7 @@ namespace KisaMusicCore.Controllers
             return View();
         }
         
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             var list_files = db.FileKisas.ToList();
@@ -75,6 +78,7 @@ namespace KisaMusicCore.Controllers
             return RedirectToAction("CRUD");
         }*/
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Create([Bind("Id,Title,FileKisaId, ArtistId, AlbumId")] Track track)
         {
             if (ModelState.IsValid)
@@ -112,6 +116,7 @@ namespace KisaMusicCore.Controllers
         
 
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(Track track)
         {
             db.Tracks.Update(track);
@@ -122,6 +127,7 @@ namespace KisaMusicCore.Controllers
         
         [HttpGet]
         [ActionName("Delete")]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> ConfirmDelete(int? id)
         {
             if (id != null)
@@ -140,6 +146,7 @@ namespace KisaMusicCore.Controllers
         }
  
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id != null)

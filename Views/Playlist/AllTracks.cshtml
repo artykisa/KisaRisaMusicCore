@@ -1,9 +1,8 @@
-﻿@using KisaMusic.Domain.Models;
+﻿@using KisaRisaMusicCore.Models;
 @model IEnumerable<Track>
 @{
-    ViewData["Title"] = "Liked Tracks";
+    ViewData["Title"] = "All Tracks";
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>AllTracks</p>
 @await Html.PartialAsync("_Partical_All", Model)

@@ -4,11 +4,12 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using KisaMusic.Domain.Models;
+using KisaRisaMusicCore.Models;
 using KisaRisaMusicCore.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using KisaRisaMusicCore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 
 namespace KisaRisaMusicCore.Controllers
@@ -24,6 +25,7 @@ namespace KisaRisaMusicCore.Controllers
         {
             return View();
         }
+        [Authorize(Roles="admin")]
         public IActionResult CRUD()
         {
             if (!db.FileKisas.Any())
@@ -43,11 +45,12 @@ namespace KisaRisaMusicCore.Controllers
             var list_file = db.FileKisas.OrderBy(a => a.Id);
             return View(list_file);
         }
+        [Authorize(Roles="admin")]
         public IActionResult Create()
         {
             return View();
         }
-        
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if(id!=null)
@@ -60,6 +63,7 @@ namespace KisaRisaMusicCore.Controllers
         }
         
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Create(FileKisa file)
         {
             db.FileKisas.Add(file);
@@ -80,6 +84,7 @@ namespace KisaRisaMusicCore.Controllers
         
 
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(FileKisa file)
         {
             db.FileKisas.Update(file);
@@ -89,6 +94,7 @@ namespace KisaRisaMusicCore.Controllers
         
         [HttpGet]
         [ActionName("Delete")]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> ConfirmDelete(int? id)
         {
             if (id != null)
@@ -101,6 +107,7 @@ namespace KisaRisaMusicCore.Controllers
         }
  
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id != null)

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using KisaMusic.Domain.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using KisaRisaMusicCore.Models;
 using IdentityDbContext = Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext;
 
 namespace KisaRisaMusicCore.Data
@@ -14,7 +14,6 @@ namespace KisaRisaMusicCore.Data
         public DbSet<Album> Albums { get; set; }
         public DbSet<Artist> Artists { get; set; }
         public DbSet<FileKisa> FileKisas { get; set; }
-        public DbSet<GlobalPlaylist> GlobalPlaylists { get; set; }
         public DbSet<Playlist> Playlists { get; set; }
         public DbSet<Track> Tracks { get; set; }
         public DbSet<TrackUser> TrackUsers { get; set; }
