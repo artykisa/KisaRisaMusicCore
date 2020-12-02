@@ -35,7 +35,7 @@ namespace KisaRisaMusicCore
                     new Track()
                     {
                         Id = 1,
-                        Title = "Iron",
+                        Title = "HUMBLE.",
                         FileKisaId = 1,
                         AlbumId = 1,
                         ArtistId = 1
@@ -43,7 +43,7 @@ namespace KisaRisaMusicCore
                     new Track()
                     {
                         Id = 2,
-                        Title = "Gold",
+                        Title = "A$AP Forever",
                         FileKisaId = 2,
                         AlbumId = 2,
                         ArtistId = 2

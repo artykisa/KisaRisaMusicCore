@@ -4217,3 +4217,260 @@ Now listening on: http://localhost:5000
 Application started. Press Ctrl+C to shut down.
 Hosting environment: Development
 Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Invalid password for user cf0c49db-0923-44e1-badb-2acabfa02b9f.
+Invalid password for user cf0c49db-0923-44e1-badb-2acabfa02b9f.
+Invalid password for user cf0c49db-0923-44e1-badb-2acabfa02b9f.
+User cf0c49db-0923-44e1-badb-2acabfa02b9f failed to provide the correct password.
+User cf0c49db-0923-44e1-badb-2acabfa02b9f failed to provide the correct password.
+User cf0c49db-0923-44e1-badb-2acabfa02b9f failed to provide the correct password.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Wrong format!
+Wrong format!
+Wrong format!
+Wrong format!
+Wrong format!
+Wrong format!
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Wrong format!application/pdf
+Wrong format!application/pdf
+Wrong format!application/pdf
+Wrong format!application/pdf
+Wrong format!application/pdf
+Wrong format!application/pdf
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Wrong format!audio/mpeg
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Format file =audio/mpeg
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track delails
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track edited
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created
+Track created

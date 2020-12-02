@@ -101,15 +101,12 @@ C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\bin\Debug\netcoreapp3.1\KisaMusic.Doma
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Artist\Index.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Playlist\Index.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Playlist\Playlist.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Playlist\_Partical_Music.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Track\Index.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Playlist\Liked.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Playlist\GlobalPlaylist.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\File\Index.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\bin\Debug\netcoreapp3.1\libman.json
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\File\CRUD.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Playlist\CRUD.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Track\CRUD.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\File\Create.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\File\Delete.cshtml.g.cs

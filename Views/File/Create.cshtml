@@ -5,14 +5,9 @@
 @{
     ViewBag.Title = "File add";
 }
-<form asp-action="create" asp-controller="File">
+<form asp-action="create" asp-controller="File" enctype="multipart/form-data">
     <div class="form-group">
-        <label asp-for="Name" class="control-label">Name</label>
-        <input type="text" asp-for="Name" class="form-control" />
-    </div>
-    <div class="form-group">
-        <label asp-for="Path" class="control-label">Path</label>
-        <input type="text" asp-for="Path" class="form-control" />
+        <input type="file" name="uploadedFile" /><br>
     </div>
     <div class="form-group">
         <input type="submit" value="Send" class="btn btn-default" />

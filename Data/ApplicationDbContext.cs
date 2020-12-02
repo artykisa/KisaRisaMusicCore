@@ -14,7 +14,6 @@ namespace KisaRisaMusicCore.Data
         public DbSet<Album> Albums { get; set; }
         public DbSet<Artist> Artists { get; set; }
         public DbSet<FileKisa> FileKisas { get; set; }
-        public DbSet<Playlist> Playlists { get; set; }
         public DbSet<Track> Tracks { get; set; }
         public DbSet<TrackUser> TrackUsers { get; set; }
 
