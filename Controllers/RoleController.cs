@@ -7,7 +7,9 @@ using KisaRisaMusicCore.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using KisaRisaMusicCore.Models;
+using KisaRisaMusicCore.Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using IdentityResult = Microsoft.AspNetCore.Identity.IdentityResult;
 using IdentityRole = Microsoft.AspNetCore.Identity.IdentityRole;
@@ -21,11 +23,13 @@ namespace KisaRisaMusicCore.Controllers
     {
         RoleManager<IdentityRole> _roleManager;
         UserManager<IdentityUser> _userManager;
-        
-        public RoleController(RoleManager<IdentityRole> roleManager, UserManager<IdentityUser> userManager)
+        private IEmailSender _emailSender;
+        public RoleController(RoleManager<IdentityRole> roleManager, UserManager<IdentityUser> userManager, IEmailSender emailSender)
         {
             _roleManager = roleManager;
             _userManager = userManager;
+            _emailSender = emailSender;
+
         }
         public IActionResult Index() => View(_roleManager.Roles.ToList());
  
@@ -100,11 +104,25 @@ namespace KisaRisaMusicCore.Controllers
                 var addedRoles = roles.Except(userRoles);
                 // получаем роли, которые были удалены
                 var removedRoles = userRoles.Except(roles);
- 
+
                 await _userManager.AddToRolesAsync(user, addedRoles);
  
                 await _userManager.RemoveFromRolesAsync(user, removedRoles);
- 
+                string addedRolesString="";
+                foreach (var role in addedRoles)
+                {
+                    addedRolesString += " "+role;
+                }
+                string removedRolesString="";
+                foreach (var role in removedRoles)
+                {
+                    removedRolesString += " "+role;
+                }
+                _emailSender.SendEmailAsync(user.Email.ToString(), "Role changes",
+                    "We have changed your roles." +
+                    " Added:" + addedRolesString +
+                    ". Removed:" + removedRolesString);
+                
                 return RedirectToAction("UserList");
             }
  

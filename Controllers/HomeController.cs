@@ -15,10 +15,8 @@ namespace KisaRisaMusicCore.Controllers
     {
         private readonly ILogger _logger;
 
-        public HomeController(ILoggerFactory loggerFactory)
+        public HomeController(ILogger<FileLogger> logger)
         {
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("HomeController");
             _logger = logger;
         }
 

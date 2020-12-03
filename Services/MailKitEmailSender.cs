@@ -42,7 +42,6 @@ namespace KisaRisaMusicCore.Services
                 smtp.Send(email);
                 smtp.Disconnect(true);
             }
-
             return Task.FromResult(true);
         }
     }

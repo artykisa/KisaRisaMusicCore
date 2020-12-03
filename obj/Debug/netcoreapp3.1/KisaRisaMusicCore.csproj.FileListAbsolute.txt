@@ -142,10 +142,6 @@ C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Pl
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\chat.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\ChatPage.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Index.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Login.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Logout.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Profile.cshtml.g.cs
-C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\Register.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\ApplicationUser\WorkPanel.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Edit.cshtml.g.cs
 C:\C#\KisaRisaMusicCore\KisaRisaMusicCore\obj\Debug\netcoreapp3.1\Razor\Views\Role\UserList.cshtml.g.cs

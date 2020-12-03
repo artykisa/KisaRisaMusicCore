@@ -4474,3 +4474,29 @@ Track created
 Track created
 Track created
 Track created
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Is it development? True
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\C#\KisaRisaMusicCore\KisaRisaMusicCore
+Album delails
+Album delails
+Album page edit
+Album page edit
+Album updated
+Album updated

@@ -17,10 +17,8 @@ namespace KisaRisaMusicCore.Controllers
         private ApplicationDbContext db;
         private ILogger _logger;
 
-        public ArtistController(ApplicationDbContext db, ILoggerFactory loggerFactory)
+        public ArtistController(ApplicationDbContext db, ILogger<FileLogger> logger)
         {
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("ArtistController");
             _logger = logger;
             this.db = db;
         }
@@ -48,18 +46,11 @@ namespace KisaRisaMusicCore.Controllers
         [Authorize(Roles="admin")]
         public async Task<IActionResult> Create([Bind("Id,Nickname,ArtistId")] Artist artist)
         {
-            if (ModelState.IsValid)
-            {
-                db.Artists.Add(artist);
-                await db.SaveChangesAsync();
-                _logger.Log(LogLevel.Information,"Artist created");
-                return RedirectToAction("CRUD");
-            }
-            else
-            {
-                _logger.Log(LogLevel.Error,"Cant load artist to database: Id: "+artist.Id +", Title: "+artist.Nickname);
-                return RedirectToAction("CRUD");
-            }
+            db.Artists.Add(artist);
+            await db.SaveChangesAsync();
+            _logger.Log(LogLevel.Information,"Artist created");
+            return RedirectToAction("CRUD");
+            
         }
         public async Task<IActionResult> Details(int? id)
         {

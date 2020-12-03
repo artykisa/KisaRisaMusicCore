@@ -16,10 +16,8 @@ namespace KisaRisaMusicCore.Controllers
     {
         private ApplicationDbContext db;
         private ILogger _logger;
-        public TrackUserController(ApplicationDbContext db, ILoggerFactory loggerFactory)
+        public TrackUserController(ApplicationDbContext db, ILogger<FileLogger> logger)
         {
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("ArtistController");
             _logger = logger;
             this.db = db;
         }

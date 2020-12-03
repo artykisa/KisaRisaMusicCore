@@ -6,7 +6,7 @@ namespace KisaRisaMusicCore.Services
 {
     public class FileLogger: ILogger
     {
-        private string filePath;
+        private static string filePath = Path.Combine(Directory.GetCurrentDirectory(), "logger.txt");
         private static string fileErrorPath = Path.Combine(Directory.GetCurrentDirectory(), "loggerError.txt");
         private static object _lock = new object();
         public FileLogger(string path)
@@ -20,7 +20,6 @@ namespace KisaRisaMusicCore.Services
  
         public bool IsEnabled(LogLevel logLevel)
         {
-            //return logLevel == LogLevel.Trace;
             return true;
         }
  

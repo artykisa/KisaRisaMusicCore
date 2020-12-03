@@ -20,10 +20,8 @@ namespace KisaMusicCore.Controllers
         // GET
         private ApplicationDbContext db;
         private ILogger _logger;
-        public TrackController(ApplicationDbContext db, ILoggerFactory loggerFactory )
+        public TrackController(ApplicationDbContext db, ILogger<FileLogger> logger )
         {
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("TrackController");
             _logger = logger;
             this.db = db;
         }

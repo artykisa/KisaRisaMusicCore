@@ -20,10 +20,8 @@ namespace KisaRisaMusicCore.Controllers
         // GET
         private ApplicationDbContext db;
         private ILogger _logger;
-        public AlbumController(ApplicationDbContext db, ILoggerFactory loggerFactory, Microsoft.AspNetCore.Identity.UserManager<IdentityUser> userManager)
+        public AlbumController(ApplicationDbContext db, ILogger<FileLogger> logger, Microsoft.AspNetCore.Identity.UserManager<IdentityUser> userManager)
         {
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("AlbumController");
             _logger = logger;
             this.db = db;
         }

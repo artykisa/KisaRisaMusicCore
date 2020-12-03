@@ -31,9 +31,7 @@ namespace KisaMusicCore.Controllers
 
         public ViewResult Liked()
         { 
-           // var list_tracks = db.Tracks.OrderBy(a => a.Id);
-           //var list_tracks = db.Tracks.OrderBy(a => a.Id);
-           var files = db.FileKisas.ToList();
+            var files = db.FileKisas.ToList();
            var artists = db.Artists.ToList();
            var albums = db.Albums.ToList();
            var userId = HttpContext.User.Identity.Name;
@@ -54,25 +52,14 @@ namespace KisaMusicCore.Controllers
         }
         
         public ViewResult AllTracks()
-        { 
-            // var list_tracks = db.Tracks.OrderBy(a => a.Id);
-            //var list_tracks = db.Tracks.OrderBy(a => a.Id);
+        {
             var files = db.FileKisas.ToList();
             var artists = db.Artists.ToList();
             var albums = db.Albums.ToList();
            
             var tracks = db.Tracks
-                .Include(t => t.FileKisa)
                 .ToList();
-
             return View(tracks);
-        }
-        
-        [HttpPost]
-        public IActionResult Login(string login, string password)
-        {
-            string authData = $"Login: {login}   Password: {password}";
-            return Content(authData);
         }
     }
 }

@@ -52,15 +52,13 @@ namespace KisaRisaMusicCore
                 options.Host_Username = "crazypluton@gmail.com";
                 options.Host_Password = "r8k2yjMzn5ZXvTSF";
                 options.Sender_EMail = "crazypluton@gmail.com";
-                options.Sender_Name = "My Sender Name";
+                options.Sender_Name = "KisaRisaMusicCore Support";
             });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILogger<FileLogger> logger)
         {
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("FileLogger");
             if (env.IsDevelopment())
             {
                 logger.Log(LogLevel.Information,"Is it development? {0}", true );

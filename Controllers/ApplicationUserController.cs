@@ -20,21 +20,6 @@ namespace KisaMusicCore.Controllers
     public class ApplicationUserController : Controller
     {
         // GET
-        private ApplicationDbContext db;
-        private ILogger _logger;
-        private UserManager<IdentityUser> _userManager;
-        public ApplicationUserController(ApplicationDbContext context,ILoggerFactory loggerFactory, UserManager<IdentityUser> userManager)
-        {
-            db = context;
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("AlbumController");
-            _logger = logger;
-            _userManager = userManager;
-        }
-
-        
-        
-        
         public IActionResult Index()
         {
             return View();
@@ -45,31 +30,6 @@ namespace KisaMusicCore.Controllers
         {
             return View();
         }
-        
-        public ViewResult Login()
-        {
-            return View();
-        }
-        
-        
-        public ViewResult Logout()
-        {
-            return View();
-        }
-        
-        public ViewResult Register()
-        {
-            return View();
-        }
-        
-        public ViewResult Profile()
-        {
-            return View();
-        }
-        
-        
-        
-        
         public IActionResult ChatPage()
         {
             return View();

@@ -20,12 +20,10 @@ namespace KisaRisaMusicCore.Controllers
 {
     public class FileController : Controller
     {
-        public FileController(ApplicationDbContext _db, IWebHostEnvironment _appEnvironment,ILoggerFactory loggerFactory)
+        public FileController(ApplicationDbContext _db, IWebHostEnvironment _appEnvironment,ILogger<FileLogger> logger)
         {
             db = _db;
             appEnvironment = _appEnvironment;
-            loggerFactory.AddFile(Path.Combine(Directory.GetCurrentDirectory(), "logger.txt"));
-            var logger = loggerFactory.CreateLogger("ArtistController");
             _logger = logger;
         }
         private ApplicationDbContext db;
