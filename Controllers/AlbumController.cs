@@ -4,8 +4,6 @@ using System.Threading.Tasks;
 using KisaRisaMusicCore.Models;
 using KisaRisaMusicCore.Data;
 using KisaRisaMusicCore.Services;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;

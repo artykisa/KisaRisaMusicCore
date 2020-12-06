@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
-
-namespace KisaRisaMusicCore.Models
+﻿namespace KisaRisaMusicCore.Models
 {
     public class TrackUser
     {

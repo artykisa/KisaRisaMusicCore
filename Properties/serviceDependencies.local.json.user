@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2020-12-03T20:02:59.0279746Z"
+    }
+  },
+  "parameters": {
+    "signalr1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "KisaRisaMusicCore20201203222106ResourceGroup"
+    },
+    "signalr1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "59b59c1b-eff0-4b58-ae9b-9757200bbbfa"
+    }
+  }
+}

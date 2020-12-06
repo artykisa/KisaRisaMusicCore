@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -12,6 +11,7 @@ using KisaRisaMusicCore.Models;
 using Microsoft.Extensions.Configuration;
 using System.Web;
 using KisaRisaMusicCore.Data;
+using Microsoft.EntityFrameworkCore;
 using SQLitePCL;
 
 namespace KisaMusicCore.Controllers

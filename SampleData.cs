@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using KisaRisaMusicCore.Data;
 using KisaRisaMusicCore.Models;
-using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.EntityFrameworkCore.Internal;
 
 namespace KisaRisaMusicCore

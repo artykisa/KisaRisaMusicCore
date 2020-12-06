@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\C#\\KisaRisaMusicCore\\KisaRisaMusicCore\\KisaRisaMusicCore.csproj",
+    "projectUniqueName": "C:\\123\\KisaRisaMusicCore\\KisaRisaMusicCore\\KisaRisaMusicCore.csproj",
     "projectName": "KisaRisaMusicCore",
-    "projectPath": "C:\\C#\\KisaRisaMusicCore\\KisaRisaMusicCore\\KisaRisaMusicCore.csproj",
-    "outputPath": "C:\\C#\\KisaRisaMusicCore\\KisaRisaMusicCore\\obj\\",
+    "projectPath": "C:\\123\\KisaRisaMusicCore\\KisaRisaMusicCore\\KisaRisaMusicCore.csproj",
+    "outputPath": "C:\\123\\KisaRisaMusicCore\\KisaRisaMusicCore\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -18,14 +18,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {
-          "C:\\C#\\KisaMusic\\KisaMusic.Data\\KisaMusic.Data.csproj": {
-            "projectPath": "C:\\C#\\KisaMusic\\KisaMusic.Data\\KisaMusic.Data.csproj"
-          },
-          "C:\\C#\\KisaMusic\\KisaMusic.Domain\\KisaMusic.Domain.csproj": {
-            "projectPath": "C:\\C#\\KisaMusic\\KisaMusic.Domain\\KisaMusic.Domain.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {
@@ -37,6 +30,14 @@
   "frameworks": {
     "netcoreapp3.1": {
       "dependencies": {
+        "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "Azure.Identity": {
+          "target": "Package",
+          "version": "[1.1.1, )"
+        },
         "MailKit": {
           "target": "Package",
           "version": "[2.10.0, )"
@@ -52,6 +53,10 @@
         "Microsoft.AspNetCore.Identity.UI": {
           "target": "Package",
           "version": "[3.1.8, )"
+        },
+        "Microsoft.Azure.SignalR": {
+          "target": "Package",
+          "version": "[1.4.0, )"
         },
         "Microsoft.EntityFrameworkCore.Sqlite": {
           "target": "Package",

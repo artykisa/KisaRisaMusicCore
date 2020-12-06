@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using KisaRisaMusicCore.Models;
@@ -16,14 +15,15 @@ namespace KisaRisaMusicCore.Data
         public DbSet<FileKisa> FileKisas { get; set; }
         public DbSet<Track> Tracks { get; set; }
         public DbSet<TrackUser> TrackUsers { get; set; }
-
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
+            => options.UseSqlite("Data Source=app.db");
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
             Database.EnsureCreated();
         }
 
-        protected override void OnModelCreating(ModelBuilder builder)
+        /*protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
             builder.Entity<Album>()
@@ -31,7 +31,7 @@ namespace KisaRisaMusicCore.Data
                 .WithMany(d => d.Albums)
                 .HasForeignKey(e => e.ArtistId);
             builder.Entity<IdentityUserLogin>().HasNoKey();
-        }
+        }*/
 
 
     }
